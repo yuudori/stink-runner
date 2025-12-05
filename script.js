@@ -282,6 +282,3 @@ function resetGame() {
 
 // Start!
 gameLoop();
-
-        
-
